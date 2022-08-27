@@ -89,7 +89,7 @@ My goal is to develop coding skills so that I can proceed with team projects, sh
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=so0733&&style=flat-square)  
+ 
   
 
 <br/>  
