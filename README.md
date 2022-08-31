@@ -37,7 +37,7 @@ My goal is to develop coding skills so that I can proceed with team projects, sh
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://c.tenor.com/iWLsn4hcyRcAAAAC/bare-bears-we-bare-bears.gif" align="center" style="width: 100%" />
+<img src=https://c.tenor.com/lN-QcOibseMAAAAC/polar-bear.gif" align="center" style="width: 100%" />
 </div>  
 
 </td></tr></table>  
