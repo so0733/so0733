@@ -37,9 +37,8 @@ My goal is to develop coding skills so that I can proceed with team projects, sh
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=catharsis14&logNo=220935637413&view=img_6" align="center" style="width: 100%" />
+<img src="https://drive.google.com/file/d/17fevTWRC25za45lX6KFeh2Tyz6Q5bcBn/view?usp=sharing" align="center" style="width: 100%" />
 </div>  
-
 
 </td></tr></table>  
 
