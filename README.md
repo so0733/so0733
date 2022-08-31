@@ -37,7 +37,8 @@ My goal is to develop coding skills so that I can proceed with team projects, sh
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="[https://drive.google.com/file/d/17fevTWRC25za45lX6KFeh2Tyz6Q5bcBn/view?usp=sharing](https://t1.daumcdn.net/cafeattach/Uzlo/ce39d12f6d1c1d2e835397b779666a06c161d738)" align="center" style="width: 100%" />
+<img src="https://cobak.co.kr/community/3/post/375518
+          " align="center" style="width: 100%" />
 </div>  
 
 </td></tr></table>  
