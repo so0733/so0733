@@ -31,7 +31,7 @@ My goal is to develop coding skills so that I can proceed with team projects, sh
 - 📧 Please contact me. so0733@naver.com  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- 📝 so0733.github.io
 
 
 </td><td valign="top" width="50%">
