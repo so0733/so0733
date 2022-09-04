@@ -25,7 +25,7 @@ My goal is to develop coding skills so that I can proceed with team projects, sh
   
 - 🌱 I'm currently learning React  
 
-- 🧑‍🎓 Education : Kyungsung University <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Electronic Engineering)
+- 🧑‍🎓 Education : Kyungsung University <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Electronic Engineering)
 
 - 📧 e-mail : so0733@naver.com  
   
