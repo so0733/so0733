@@ -31,7 +31,7 @@ My goal is to develop coding skills so that I can proceed with team projects, sh
 - 📧 Please contact me. so0733@naver.com  
   
 
-- 📝 so0733.github.io
+- 📝 Blog : [portfolio](https://so0733.github.io)
 
 
 </td><td valign="top" width="50%">
