@@ -29,7 +29,7 @@ My goal is to develop coding skills so that I can proceed with team projects, sh
 
 - 📧 e-mail : so0733@naver.com  
   
-- 📝 portfolio : [portfolio](https://so0733.github.io/portfolio)
+- 📝 portfolio : [portfolio](https://so0733.github.io/portfolio/)
 
 
 </td><td valign="top" width="50%">
