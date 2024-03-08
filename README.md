@@ -21,9 +21,9 @@ I became interested in web development in the process of realizing my imagined i
 ## About Me  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/so0733/Programming_React_2022)  
+- 🔭 I’m currently working on [Github Profilinator]([https://github.com/so0733/Programming_React_2022](https://github.com/so0733/shampoo_shop))  
   
-- 🌱 I'm currently learning React  
+- 🌱 I am currently preparing for a job  
 
 - 🧑‍🎓 Education : Kyungsung University <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Electronic Engineering)
 
