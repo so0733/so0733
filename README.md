@@ -11,9 +11,9 @@
 
 ### Glad to see you here!  
 Hi there!
-I am a beginner developer who is interested in front-end development.
+I am a developer who is interested in developing the web.
 
-My goal is to develop coding skills so that I can proceed with team projects, share ideas and give feedback, and have practical skills and solve user problems technically.  
+I became interested in web development in the process of realizing my imagined ideas. We strive to provide valuable services to users based on our passion for new challenges and problem-solving skills. We strive to provide better web services through continuous learning and collaboration with team members. I want to develop myself through various projects and actively participate in the constantly developing developing culture to grow into a better developer.
   
 <br/>  
 
