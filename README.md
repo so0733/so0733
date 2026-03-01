@@ -29,7 +29,7 @@ I became interested in web development in the process of realizing my imagined i
 
 - 📧 e-mail : so0733@naver.com  
   
-- 📝 portfolio : [portfolio](https://so0733.github.io/portfolio/)
+- 📝 portfolio : [portfolio](https://portfolio-2026-two-orcin.vercel.app/)
 
 
 </td><td valign="top" width="50%">
